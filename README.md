@@ -22,5 +22,8 @@ python main.py
 
 python ensemble.py
 
+![화면 캡처 2023-06-02 184847](https://github.com/jyejay/KNU_ResNet18/assets/101813969/44af4568-1a1c-43bb-b757-cee36a4dd8e7)
+
+
 
 
