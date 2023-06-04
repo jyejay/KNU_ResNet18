@@ -4,7 +4,7 @@ import torchvision.transforms as transforms
 import torch.nn as nn
 import timm
 
-model_num = 4
+model_num = 3
 lr = 0.0001
 
 # Check if GPU is available
