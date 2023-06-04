@@ -12,10 +12,14 @@ python src/train.py
 python src/train.py -m hparams_search=cifat10_resnet18_optuna experiment=example  
 (you can automatically train once for batch size and lr)
 
+#### The results can be checked through the Wandb report.
+
+https://api.wandb.ai/links/limseu0875/tmkndkjp
 ---
 ### Base line code
 python main.py
 
 python ensemble.py
+
 
 
